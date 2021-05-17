@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 public class MainTest {
     @Test
-    public void test_Given_WeWantToSeeAWelcomeMessage_When_WeGetTheMessage_Then_theMessageShouldBeExactlyHelloRot13(){
+    public void test_Given_WeWantToSeeAWelcomeMessage_When_WeGetTheMessage_Then_theMessageShouldBeExactlyHelloMM(){
         // arrange
 
         // act
