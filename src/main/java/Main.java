@@ -30,6 +30,6 @@ public class Main {
     }
 
     public static String GetMessage() {
-        return "hello MM";
+        return "Maintenance Monitor";
     }
 }
